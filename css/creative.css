@@ -33,7 +33,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #000000;
+    color: #418BFF;
 }
 
 h1,
@@ -52,7 +52,7 @@ p {
 }
 
 .bg-primary {
-    background-color: #418BFF;
+    background-color: #000000;
 }
 
 .bg-dark {
