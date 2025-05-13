@@ -12,6 +12,7 @@ const Hero = () => {
         <h1 className="text-4xl md:text-6xl font-bold mb-4">Andrew H. Au</h1>
         <h2 className="text-xl md:text-2xl mb-8 text-resume-light">Experience Strategist | Program Manager
 AI-Augmented Delivery of Scalable, Human-Centered Solutions
+
       </h2>
         
         <div className="flex flex-wrap justify-center gap-4 mt-4">
